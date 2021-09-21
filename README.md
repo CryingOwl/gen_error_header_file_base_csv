@@ -1,0 +1,2 @@
+# gen_error_header_file_base_csv
+基于csv文本生成错误码头文件，方便管理错误码定义以及获取错误码对应错误信息
